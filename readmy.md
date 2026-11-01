@@ -1,6 +1,6 @@
 # CopySpace
 
-**Your Personal Clipboard** — локальная библиотека истории буфера обмена для Windows на Python и PySide6.
+**Your Personal Clipboard** - локальная библиотека истории буфера обмена для Windows на Python и PySide6.
 
 CopySpace сохраняет скопированный текст, ссылки и изображения в локальную коллекцию. Приложение поддерживает поиск, категории, избранное, закрепление записей и светлые/тёмные темы.
 
@@ -54,14 +54,14 @@ python -m venv .venv
 
 ## Структура проекта
 
-- `copyspace.py` — графический интерфейс PySide6.
-- `copyspace_core.py` — логика приложения, SQLite и обработка содержимого.
-- `requirements.txt` — зависимости.
-- `tests/test_copyspace.py` — тесты.
-- `run.bat` — установка зависимостей и запуск.
-- `build_exe.bat` — сборка приложения в EXE.
-- `README.md` — основная документация.
-- `readmy.md` — дополнительное описание проекта.
+- `copyspace.py` - графический интерфейс PySide6.
+- `copyspace_core.py` - логика приложения, SQLite и обработка содержимого.
+- `requirements.txt` - зависимости.
+- `tests/test_copyspace.py` - тесты.
+- `run.bat` - установка зависимостей и запуск.
+- `build_exe.bat` - сборка приложения в EXE.
+- `README.md` - основная документация.
+- `readmy.md` - дополнительное описание проекта.
 
 ## Версия
 
